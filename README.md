@@ -1,3 +1,4 @@
+Este projeto consiste em uma calculadora de IMC desenvolvida em React como parte da disciplina de Programação para Web do 5º semestre do curso de Ciência da Computação. A calculadora permite aos usuários calcular seu Índice de Massa Corporal, uma medida simples que avalia a relação entre peso e altura.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
